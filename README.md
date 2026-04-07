@@ -6,6 +6,15 @@
 
 ---
 
+## 🎓 Academic Affiliation
+
+PhD Student at USP/ESALQ  
+Supervised by:
+- Advisor:[Patricia Angélica Alves Marques](https://orcid.org/0000-0002-6818-4833)
+- Co-advisor: [Carlos Dias Maciel](https://orcid.org/0000-0003-0137-6678)
+
+---
+
 ## 🚀 Projects
 
 ### 🌱 EVAonline
