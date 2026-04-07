@@ -54,14 +54,6 @@ Title: Forecasting Water Balance and Daily Irrigation Requirements Using Climate
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela-cunha-soares&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=angela-cunha-soares&show_icons=true)
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ângela-silviane-moura-cunha-0a8569134  
