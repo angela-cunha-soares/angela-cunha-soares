@@ -1,4 +1,4 @@
-# Hi there 👋
+# Ângela S. M. Cunha Soares
 
 🎓 PhD Student in Agricultural Systems Engineering @USP/ESALQ 🌦️🌾  
 💻 Python • Probabilistic Modeling • Web Development  
