@@ -1,8 +1,7 @@
-# Ângela S. M. Cunha Soares
+# Ângela Cunha Soares
 
 🎓 PhD Student in Agricultural Systems Engineering @USP/ESALQ 🌦️🌾  
 💻 Python • Probabilistic Modeling • Web Development  
-🌍 Focus on evapotranspiration, hydroclimate, and irrigation modeling  
 
 ---
 
